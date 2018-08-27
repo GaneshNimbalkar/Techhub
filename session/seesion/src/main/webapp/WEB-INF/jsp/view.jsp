@@ -9,5 +9,6 @@
 </head>
 <body>
 <h1>Session &nbsp;${u}</h1>
+<pre>This is the session project we are trying to use github in our project</pre>
 </body>
 </html>
