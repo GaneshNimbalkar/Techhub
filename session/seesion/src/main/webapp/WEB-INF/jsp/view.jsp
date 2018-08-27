@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Session session </title>
+<title>Session  </title>
 </head>
 <body>
 <h1>Session &nbsp;${u}</h1>
