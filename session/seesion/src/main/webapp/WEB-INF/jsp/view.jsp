@@ -8,6 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Session Data is &nbsp;${u}</h1>
+<h1>Session &nbsp;${u}</h1>
 </body>
 </html>
